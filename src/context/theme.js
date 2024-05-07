@@ -5,4 +5,4 @@ export const ThemeContext = createContext({
 
 })
 
-// export const ThemeProvider = ThemeContext.Provider;
+// export const ThemeProvider = ThemeContext.ProvidSSSer;
